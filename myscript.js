@@ -1,4 +1,5 @@
 var feet = document.getElementById('feet');
+
 var inch = document.getElementById('inch');
 
 feet.addEventListener('input',function(){
